@@ -8,7 +8,7 @@ export default function Hero () {
 
          {/* for large screen*/}
 
-         <div className="bg-cover bg-center bg-[url('/Images/hero.png')] w-full h-[400px] sm:hidden md:block">
+         <div className="bg-cover bg-center bg-[url('/Images/hero.PNG')] w-full h-[400px] sm:hidden md:block">
         <div className="pt-[80px] pl-12">
         <h1 className="font-medium text-[48px] leading-[72px] text-left text-white"><b>Flowers Makes <br /> Memories!</b></h1>
         <p className="font-medium text-[18px] leading-[34px] text-left text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -21,7 +21,7 @@ export default function Hero () {
 
 
          {/* for small screen*/}
-         <div className="bg-cover bg-center bg-[url('/Images/hero.png')] w-[427] h-[416px] md:hidden sm:block">
+         <div className="bg-cover bg-center bg-[url('/Images/hero.PNG')] w-[427] h-[416px] md:hidden sm:block">
          <div className="pt-[90px] pl-4">
             <h1 className="font-medium text-[48px] leading-[72px] text-left text-white"><b>Flowers Makes <br /> Memories!</b></h1>
             <p className="font-medium text-[18px] leading-[34px] text-left text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>

@@ -17,7 +17,7 @@ export default function About () {
 
          {/* For large screen*/}
 
-         <div className="bg-cover bg-center bg-[url('/Images/hero.png')] w-full h-[400px] sm:hidden md:block">
+         <div className="bg-cover bg-center bg-[url('/Images/hero.PNG')] w-full h-[400px] sm:hidden md:block">
         <div className="pt-[80px] pl-12">
         <h1 className="font-medium text-[48px] leading-[72px] text-left text-white pt-4"><b>About Us</b></h1>
         <p className="font-medium text-[19px] leading-[34px] text-left text-white">Lorem ipsum dolor sit amet consectetur adipisicing<br />
@@ -35,7 +35,7 @@ export default function About () {
 
 
          {/* for small screen*/}
-         <div className="bg-cover bg-center bg-[url('/Images/hero.png')] w-[427] h-[416px] md:hidden sm:block">
+         <div className="bg-cover bg-center bg-[url('/Images/hero.PNG')] w-[427] h-[416px] md:hidden sm:block">
          <div className="pt-[70px] pl-4">
             <h1 className="font-medium text-[48px] leading-[72px] text-left text-white"><b>About Us</b></h1>
             <p className="font-medium text-[18px] leading-[34px] text-left text-white">Lorem ipsum dolor sit amet consectetur<br /> adipisicing
